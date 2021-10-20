@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1, title{
     color: blue;
     text-align: center;
@@ -5,3 +6,10 @@ h1, title{
 body {
     background-color: lightblue;
   }
+=======
+.center {
+    padding: 70px 0;
+    border: 3px solid green;
+    text-align: center;
+}
+>>>>>>> 23c8730e3741f7103112d6a6b8cb40cd90b412a6
